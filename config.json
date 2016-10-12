@@ -1,0 +1,6 @@
+{
+	"host": "192.168.2.89",
+	"user": "cloudview_write",
+	"password": "root#123",
+	"database":"girls"
+}
